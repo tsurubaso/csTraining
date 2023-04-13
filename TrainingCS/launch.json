@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "coreclr",
+        "name": "Your debug configuration",
+        "request": "launch",
+        "program": "${workspaceFolder}/Main.cs", // Update the path to your Main.cs file
+        "args": []
+        // other configuration settings
+      }
+    ]
+  }
+  
